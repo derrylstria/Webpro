@@ -1,4 +1,4 @@
-<!-- Derryl Satria M -->
+<!-- Riel Satria -->
 <?php
 $barang = [
     ['id' => 1, 'nama_barang' => 'Buku', 'kategori_barang' => 'Alat Tulis', 'harga_barang' => 20000],
