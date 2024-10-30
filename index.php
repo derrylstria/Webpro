@@ -1,5 +1,5 @@
+<!-- Derryl Satria M -->
 <?php
-
 $barang = [
     ['id' => 1, 'nama_barang' => 'Buku', 'kategori_barang' => 'Alat Tulis', 'harga_barang' => 20000],
     ['id' => 2, 'nama_barang' => 'Pulpen', 'kategori_barang' => 'Alat Tulis', 'harga_barang' => 5000]
